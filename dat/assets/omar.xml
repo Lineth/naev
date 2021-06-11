@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <asset name="Omar">
  <pos>
-  <x>-1756.471788</x>
-  <y>962.938848</y>
+  <x>-2371.236914</x>
+  <y>1299.967445</y>
  </pos>
  <GFX>
   <space>Y00.webp</space>
@@ -22,6 +22,7 @@
    <refuel/>
    <bar/>
    <missions/>
+   <commodity/>
    <outfits/>
   </services>
   <commodities/>
